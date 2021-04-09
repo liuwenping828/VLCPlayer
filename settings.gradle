@@ -1,0 +1,4 @@
+include ':libvlc'
+include ':pedrovlc'
+include ':app'
+rootProject.name = "VLCPlayer"
